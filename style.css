@@ -1,0 +1,27 @@
+body{
+    background-color: purple;
+}
+
+#asztal
+{
+    background-color: plum;
+    min-height:300px;
+    overflow: auto;
+}
+
+.kartya
+{
+    height: 200px;
+    width: 150px;
+    background-color: pink;
+    border: 2px solid black;
+    border-radius: 15px;
+    background-image: url("h1.png.jpg");
+    background-size: cover;
+    background-position: center;
+    _float: left;
+    display:inline-block;
+    margin: 5px;
+
+
+}
